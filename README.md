@@ -1,5 +1,5 @@
-<img src="/app/src/main/res/drawable/logo.png"  align="left" hspace="20" height="140" width="150">
-Facebook HD&SD Video Downloader Application 
+<img src="https://miro.medium.com/max/300/1*OFJKA8dRYZSb-Kprx-VReg.png"  align="left" hspace="20" height="140" width="150">
+My name is Mg Kaung
 
 [![Believe Developer.](https://developer.android.com/images/social/android-developers.png)](https://play.google.com/store/apps/developer?id=Believe+Developer)
 
