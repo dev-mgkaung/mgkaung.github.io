@@ -28,3 +28,6 @@
 <a href="https://github.com/dev-mgkaung">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-mgkaung&show_icons=true&theme=radical&line_height=27" alt="Mg Kaung's github stats"/>
 </a>
+
+## Project Experience Screenshot
+<img src="https://github.com/dev-mgkaung/smsVertificationDemo/blob/master/1_Ypvky_mIAD7dVoNUzBz39A.png" width=“400”/>
