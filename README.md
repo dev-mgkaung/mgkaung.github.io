@@ -1,7 +1,7 @@
 <img src="/app/src/main/res/drawable/logo.png"  align="left" hspace="20" height="140" width="150">
 Facebook HD&SD Video Downloader Application 
 
-[![Believe Developer.](https://github.com/dev-mgkaung/dev-mgkaung/blob/master/mycovers_photo.png)](https://play.google.com/store/apps/developer?id=Believe+Developer)
+[![Believe Developer.](https://developer.android.com/images/social/android-developers.png)](https://play.google.com/store/apps/developer?id=Believe+Developer)
 
 # I’m  Android developer  👋
 ## I am 24 years old. I have been working in MIT (Myanmar) since 2018. So my experience has been 2 years in android development and skill is at intermediate level.
