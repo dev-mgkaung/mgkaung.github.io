@@ -32,16 +32,16 @@
 ## Project Experience Screenshot
 
 ## Buddha Mobile Application
-<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/covers.png?raw=true" align="left" hspace="20" height="400" width="400"/>
+<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/covers.png?raw=true" height="400" width="400"/>
 
 #
 ## Myanmar TopUp Mobile Application
-<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/coversmmtopjp.png?raw=true" align="left" hspace="20" height="400" width="400"/>
+<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/coversmmtopjp.png?raw=true"  height="400" width="400"/>
 
 #
 ## Myanmar Radio Application
-<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/myanmar_tv_radio_ads.png?raw=true" align="left" hspace="20" height="400" width="400"/>
+<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/myanmar_tv_radio_ads.png?raw=true" height="400" width="400"/>
 
 #
 ## Phandeeyar Mobile Application
-<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/coverss.png?raw=true" align="left" hspace="20" height="400" width="400"/>
+<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/coverss.png?raw=true"  height="400" width="400"/>
