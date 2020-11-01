@@ -1,5 +1,5 @@
 <img src="https://github.com/dev-mgkaung/dev-mgkaung/blob/master/mk_profile.png?raw=true"  align="left" hspace="20" height="140" width="150">
- My name is Mg Kaung. I’m an application developer from Myanmar.
+ My name is Mg Kaung. I’m an application developer from Myanmar.I am the Creator of My Life . I have passion towards android application developement .And Iam A Self Learner.
 
 [![Believe Developer.](https://github.com/dev-mgkaung/dev-mgkaung/blob/master/mycovers_photo.png?raw=true)](https://play.google.com/store/apps/developer?id=Believe+Developer)
 
