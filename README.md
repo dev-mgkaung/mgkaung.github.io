@@ -32,16 +32,16 @@
 ## Project Experience Screenshot
 
 ## Buddha Mobile Application
-<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/covers.png?raw=true" width="400"/>
+<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/covers.png?raw=true"/>
 
 #
 ## Myanmar TopUp Mobile Application
-<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/coversmmtopjp.png?raw=true" width="400"/>
+<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/coversmmtopjp.png?raw=true" />
 
 #
 ## Myanmar Radio Application
-<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/myanmar_tv_radio_ads.png?raw=true" width="400"/>
+<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/myanmar_tv_radio_ads.png?raw=true" />
 
 #
 ## Phandeeyar Mobile Application
-<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/coverss.png?raw=true"  width="400"/>
+<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/coverss.png?raw=true"/>
