@@ -39,8 +39,8 @@
 <img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/coversmmtopjp.png?raw=true" width=“400”/>
 
 #
-## MM Exchange Reate Application
-<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/covers.png?raw=true" width=“400”/>
+## Myanmar Radio Application
+<img src="https://github.com/dev-mgkaung/mgkaung.github.io/blob/main/myanmar_tv_radio_ads.png?raw=true" width=“400”/>
 
 #
 ## Phandeeyar Mobile Application
